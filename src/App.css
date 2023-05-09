@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+
+  h3 {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+  }
+
+  form {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
